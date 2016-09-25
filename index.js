@@ -1,6 +1,7 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
 
+const FillerText = require('./components/FillerText')
 const RegistrationForm = require('./components/RegistrationForm');
 const Webpage = require('./components/Webpage');
 
